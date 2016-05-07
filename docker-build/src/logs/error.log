@@ -1,0 +1,6 @@
+2016/05/03 19:23:59 [emerg] 10177#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2016/05/03 19:24:06 [emerg] 10186#0: getgrnam("nobody") failed
+2016/05/03 19:24:20 [emerg] 10189#0: getgrnam("nobody") failed
+2016/05/03 19:26:04 [notice] 10228#0: signal process started
+2016/05/03 19:27:39 [error] 10246#0: *1 open() "/home/josef/Dokumente/nginx/src/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2016/05/03 19:27:39 [error] 10246#0: *1 open() "/home/josef/Dokumente/nginx/src/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
